@@ -1,2 +1,2 @@
 # seok
-print(hello)
+hello
